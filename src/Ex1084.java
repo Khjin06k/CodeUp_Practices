@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//시간 초과 문제 해결 필요
 public class Ex1084 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
@@ -19,3 +19,4 @@ public class Ex1084 {
         System.out.println(count);
     }
 }
+
